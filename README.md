@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @doble-eme
-- 👀 I’m interested in documentation, UX, and everything related to technical writing, user experience, and technology
+- 👋 Hi, I’m Mario Morales (@doble-eme)
+- 👀 I’m a Technical Writer and I'm interested in everything related to documentation, UX, and technology
 - 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on open source projects, documentation, and 
+- 💞️ I’m open to collaborate on open source projects
 - 📫 How to reach me: I'm @doble_eme on Twitter
 
 <!---
