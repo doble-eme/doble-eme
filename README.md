@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mario Morales (@doble-eme)
-- 👀 I’m a Technical Writer and I'm interested in everything related to documentation, UX, and technology
-- 🌱 I’m currently learning Python and Data Science
+- 👋 Hi, I’m Mario Morales
+- 👀 I’m a Senior Technical Writer at MongoDB
+- 🌱 I'm continuously learning about anything related to tech and docs
 - 💞️ I’m open to collaborate on open source projects
 - 📫 How to reach me: I'm @doble_eme on Twitter
 
